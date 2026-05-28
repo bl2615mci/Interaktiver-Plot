@@ -1,5 +1,7 @@
 # Interaktiver_Plot
 
+Wir starten im Terminal mit dem Befehl: pip install -r requirements.txt ! Damit installieren wir die benötigten Pakete
+
 Alle unsere Funktionen befinden sich in der functions.py Datei die wir in unsere main.py Datei importieren.
 
 Mithilfe eines Sliders kann man die eigene maximale Herzfrequenz einstellen.
