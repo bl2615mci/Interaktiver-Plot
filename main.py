@@ -1,6 +1,7 @@
 import functions as f
 import streamlit as st
 
+
 df = f.read_my_csv("data/activity.csv")
 wert = st.slider("Your max heart rate:", min_value=100, max_value=250, value=200, step=1)
 st.write("You have selected:", wert)
