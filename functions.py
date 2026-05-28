@@ -4,7 +4,6 @@ import plotly.graph_objects as go
 
 
 
-
 def read_my_csv(file_path):
     # Einlesen eines Dataframes
     ## "," steht für das Trennzeichen in der csv-Datei
